@@ -20,9 +20,9 @@ apply plugin: 'forge'
 sourceCompatibility = '1.8'
 targetCompatibility = '1.8'
 
-version = "1.0"
-group= "tocraft.xw" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "xw"
+version = "2.0"
+group= "tocraft.xtra" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = "xtra"
 
 minecraft {
     version = "1.7.10-10.13.4.1614-1.7.10"
