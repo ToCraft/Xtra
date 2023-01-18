@@ -1,8 +1,8 @@
 [{
-  "modid": "xw",
-  "name": "Xtra Waypoints",
-  "description": "adds extra waypoints to the lotr mod",
-  "version": "1.0",
+  "modid": "xtra",
+  "name": "Xtra",
+  "description": "adds extra stuff to minecraft-lotr, like waypoints to the lotr mod or player flesh",
+  "version": "2.0",
   "mcversion": "1.7.10",
   "url": "",
   "updateUrl": "",
