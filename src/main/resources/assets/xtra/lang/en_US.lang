@@ -5,3 +5,5 @@ lotr.waypoint.BombadilsHouse.info=Tom Bombadils House, set in a small vale betwe
 lotr.waypoint.GridleyIsland=Gridley Island
 lotr.waypoint.GridleyIsland.info=Small Island in the Brandywine river, in the south is the rivermen settlement, In the north a small elven camp.
 item.xtra:PotionOfManifiedVictory.name=Potion of the Manified Victory
+item.xtra:Kappaphonium.name=Kappaphonium
+tile.xtra:BlockKappaphonium.name=Kappaphonium Block
